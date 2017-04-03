@@ -2,7 +2,7 @@ Usage:
 
 ```
 bundle install
-./search path/to/repo
+./search.rb path/to/repo
 ```
 
 Finds commits in a repo that:
